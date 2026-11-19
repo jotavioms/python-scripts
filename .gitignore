@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Local outputs that may contain captured input or lab credentials
+log_teclas.txt
+senha_encontrada.txt
